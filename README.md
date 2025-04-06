@@ -19,3 +19,28 @@
   DC/DC 5V - Provides 5V for sensors
   
   BME680 - Enveroment sensor
+
+ESP32 PINOUT:
+
+    IO0 - RTC INT Signal
+    IO1 - CLOCK Signal
+    IO2 - SPI MISO Signal
+    IO3 - EPD BUSY Signal
+    IO4 - SD Card Chip Select
+    IO5 - EPD DC Signal
+    IO6 - SPI SCK Signal
+    IO7 - SPI MOSI Signal
+    IO9 - BOOT Button Signal
+    IO10 - EPD Chip Select
+    IO11 - Flash NOR Memory Chip Select
+    IO12 - USB D+ Signal
+    IO13 - USB D- Signal
+    IO15 - CHANGE Button Signal
+    GPIO16 - UART TX
+    GPIO17 - UART RX
+    IO18 - RTC RESET Signal
+    IO19 - I2C Sensor VDDIO Signal
+    IO20 - EPD 3V3
+    IO21 - I2C SDA Signal
+    IO22 - I2C SCL Signal
+    IO23 - EPD RESET Signal
