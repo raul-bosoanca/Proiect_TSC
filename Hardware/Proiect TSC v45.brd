@@ -944,7 +944,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <class number="1" name="power" width="0.3" drill="0">
 </class>
 </classes>
-<designrules name="jlcpcb-2layers.edru">
+<designrules name="jlcpcb-2layers.edru *">
 <param name="mdWireWire" value="5mil"/>
 <param name="mdWirePad" value="5mil"/>
 <param name="mdWireVia" value="5mil"/>
