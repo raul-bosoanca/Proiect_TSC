@@ -44,3 +44,5 @@ ESP32 PINOUT:
     IO21 - I2C SDA Signal
     IO22 - I2C SCL Signal
     IO23 - EPD RESET Signal
+
+Note : On the final 3D models i did not render the top and buttom ground planes because the working pc did not have the power to render them
