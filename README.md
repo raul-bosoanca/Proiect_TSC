@@ -1,3 +1,6 @@
 # Proiect_TSC
 
-![Diagrama_Block_Openbook drawio](https://github.com/user-attachments/assets/18fadacf-6ec5-4efa-9338-32d6fbafb363)
+![Diagrama_Block_Openbook drawio](https://github.com/user-attachments/assets/68c5a4ed-2c58-4e37-9742-be7280558ab6)
+
+
+
