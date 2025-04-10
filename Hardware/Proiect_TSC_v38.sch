@@ -2495,7 +2495,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <part name="GND23" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.7Qd4d4l7T_yn8RiDKkSmKA" deviceset="GND" device=""/>
 <part name="C6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.7Qd4d4l7T_yn8RiDKkSmKA" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
 <part name="C7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.7Qd4d4l7T_yn8RiDKkSmKA" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
-<part name="C8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.7Qd4d4l7T_yn8RiDKkSmKA" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
+<part name="C8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.7Qd4d4l7T_yn8RiDKkSmKA" deviceset="EAGLE-LTSPICE_C" device="C0402" value="0.1uF/50V"/>
 <part name="C10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.7Qd4d4l7T_yn8RiDKkSmKA" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
 <part name="C11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.7Qd4d4l7T_yn8RiDKkSmKA" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
 <part name="C12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.7Qd4d4l7T_yn8RiDKkSmKA" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
